@@ -10,10 +10,7 @@ public class ej1 {
 			num++;
 			System.out.println(num);
 		}
-		while (num<100) {
-			num++;
-			System.out.println(num);
-		}
+	
 		
 	}
 
